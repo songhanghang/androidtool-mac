@@ -5,4 +5,4 @@
 1. 支持Sketch直接打开截图
 
 # 下载
-[点这里](https://github.com/muandrew/androidtool-mac/releases/)
+[https://github.com/songhanghang/androidtool-mac/releases](https://github.com/songhanghang/androidtool-mac/releases)
